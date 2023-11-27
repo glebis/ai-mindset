@@ -1,5 +1,6 @@
 ---
-aliases: [ ]
+aliases: []
+published: true
 ---
 tags: #
 date: [[2023-10-30]]
@@ -7,7 +8,7 @@ refs: [[@Gleb Kalinin]]
 
 ---
 
-> "GPT-мате: Для тех, кто ебет систему, а не наоборот. ИИ без буллшита."
+
 
 ![[telegram-cloud-photo-size-2-5336921680951496746-y.jpg|300]]
 
