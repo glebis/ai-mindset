@@ -16,6 +16,7 @@ refs: [[@Gleb Kalinin]]
 
 - анкета https://forms.gle/WAoXFPCEcB7Wiwzw5
 - программа курса http://bit.ly/aimindset
+- [AI mindset 2023 - Obsidian Publish](https://publish.obsidian.md/glebkalinin/ai-mindset/AI+mindset+2023) 
 - сделать course public Github w/ Obsidian
 - 
 
